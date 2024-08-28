@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ologypit.github.io/sitemap.html.gz
+Sitemap: https://ologypit.github.io/app/sitemap.html.gz
+Sitemap: https://ologypit.github.io/assets/sitemap.html.gz
+Sitemap: https://ologypit.github.io/css/sitemap.html.gz
+Sitemap: https://ologypit.github.io/includes/sitemap.html.gz
+Sitemap: https://ologypit.github.io/item/sitemap.html.gz
+Sitemap: https://ologypit.github.io/src/sitemap.html.gz
